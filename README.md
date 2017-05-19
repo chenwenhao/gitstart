@@ -47,7 +47,7 @@ git pull online master
 3. bare 裸仓库
 4. 忽略文件 
 5. Stash用法
-6. fetch pull merge rebase tag log
+6. fetch pull merge rebase tag log track
 7. 导出文件
 8. 还原代码，还原到某个版本
 9. 提交写注释的规则
