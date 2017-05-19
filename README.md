@@ -11,8 +11,8 @@ git clone  https://github.com/herry/gitstart.git
 ### 3. remote
 ```shell
 git remote add online https://github.com/chenwenhao/gitstart.git   //增加一个本地可操作的远程仓库  别名
-git remote
-git remote -v
+git remote     //查看状态
+git remote -v  //查看状态
 ```
 ### 4. branch
 ```shell
@@ -29,6 +29,7 @@ git branch -dr origin/dev2
 git push origin --delete dev2 //删除一个线上分支
 					   
 git branch -a   //查看状态
+git status      //查看状态
 ```
 
 ### 5. pull 
