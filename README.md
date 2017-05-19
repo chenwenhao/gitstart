@@ -30,3 +30,12 @@ git push origin --delete dev2 //删除一个线上分支
 					   
 git branch -a   //查看状态
 ```
+
+### 5. pull 
+基本操作 add commit push 都不说了
+每次push之前，先pull检查是否有更改
+pull 会合并线上代码到你的分支上
+
+```shell
+git pull online master
+```
