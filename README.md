@@ -56,7 +56,8 @@ git pull online master
 12. 日志数据流
 
 
-#资料
+# 资料
+
 https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B
 
 https://github.com/xirong/my-git
