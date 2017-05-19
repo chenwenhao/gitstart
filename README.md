@@ -47,10 +47,18 @@ git pull online master
 3. bare 裸仓库
 4. 忽略文件 
 5. Stash用法
-6. fetch pull merge rebase tag log track
+6. fetch pull merge rebase tag log track cherry-pick
 7. 导出文件
 8. 还原代码，还原到某个版本
 9. 提交写注释的规则
 10. 冲突的解决
 11. 理解HEAD
 12. 日志数据流
+
+
+#资料
+https://github.com/xirong/my-git
+https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md
+http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
+http://backlogtool.com/git-guide/cn/intro/intro1_1.html
+
