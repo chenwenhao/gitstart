@@ -33,7 +33,7 @@ git branch -a   //查看状态
 
 ### 5. pull 
 >基本操作add、commit、push 都不说了。
->每次push之前，先**pull检查是否有更改**.
+>每次push之前，先`**pull检查是否有更改**`.
 >pull会合并线上代码到你的分支上
 
 ```shell
