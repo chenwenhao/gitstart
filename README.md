@@ -57,8 +57,11 @@ git pull online master
 
 
 #资料
+https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B
+
 https://github.com/xirong/my-git
-https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md
+
 http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
+
 http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 
